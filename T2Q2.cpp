@@ -14,3 +14,14 @@ int main(){
     drawBox(width);
     
 } 
+
+void drawBox(int w){
+
+    for (int h = 0; h<w; ++h){
+        for(int l = 0; l<w; ++l){
+            cout << "# ";
+        }
+
+        cout << endl;
+    }
+}
