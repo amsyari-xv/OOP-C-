@@ -12,7 +12,7 @@ unsigned int factorial(unsigned int num)
 int main(){
 int x = 4;
 
-cout << "\n Factorial of " << x << "= " << factorial(x);
+cout << "\n Factorial of " << x << " = " << factorial(x);
 
 return 0 ;
 
