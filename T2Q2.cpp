@@ -2,9 +2,6 @@
 using namespace std;
 
 void drawBox(int w);
-void drawFullLine(int w);
-void drawEmptyLine(int w);
-
 
 int main(){
 
